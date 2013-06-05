@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">TIP Calculator</string>
+    <string name="title_activity_main">The Idiot\'s Pay Calculator</string>
+    <string name="title_activity_display_amount_to_pay">Display Amount To Pay</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings for number of people -->
+    <string name="num_people_question">Number of people dining:</string>
+    <string name="num_people_hint">Hint: For the purposes of
+        this question, students are considered to be people.</string>
+
+    <!-- Strings for number of speakers -->
+    <string name="num_speakers_question">Of those how many were speakers?</string>
+    <string name="num_speakers_hint">Hint: A speaker is a
+        person who was or will be giving the seminar. According to legend the
+        department will pay for their meal and for the meal of three guests for each.</string>
+
+    <!-- Strings for number of speakers guests -->
+    <string name="num_guests_question">How many speakers\' guests?</string>
+    <string name="num_guests_hint" tools:ignore="TypographyEllipsis">Hint: These are the people
+        the speaker has invited along and will be getting a
+        free meal. (Shhh... don\'t tell the economists.)</string>
+
+    <!-- Strings for number of layabout students -->
+    <string name="num_layabouts_question">And how many students?</string>
+    <string name="num_layabouts_hint">Hint: You know those
+        layabout, idle, lazy, good-for-nothing students always
+        hanging around looking for free food and wine? How many
+        of them are around?</string>
+
+    <!-- Strings for amount of the bill -->
+    <string name="bill_amount_question">How much did the bill
+        come to?</string>
+    <string name="bill_amount_hint">Hint: This is usually written
+        on the bill somewhere near the bottom of the page. It
+        might have a heading called \'Total\' or something
+        similar. Colonial commoners may refer to the \'bill\' as a 
+        \'check\', though I assume that actually mean \'cheque\' 
+        even though this is still wrong. Also, don\'t worry about
+        the tip, I\'ll deal with that myself.</string>
+
+    <!-- Strings for the tip -->
+    <string name="tip_question">Is a service charge included?</string>
+    <string name="tip_yes">Yes</string>
+    <string name="tip_no">No</string>
+    <string name="tip_hint">Hint: A service charge may also be
+        referred to as a tip or a gratuity. Look on the 
+        bill/check/cheque and see if there is any indication of
+        such a thing being added.</string>
+
+    <!-- Strings for service -->
+    <string name="service_question">How was the service?</string>
+    <string name="service_wonderful">Wonderful</string>
+    <string name="service_fine">Fine</string>
+    <string name="service_crap">Really crap</string>
+    <string name="service_hint">Hint: How are you feeling? Good, average, bad?
+        How did you feel before the meal? If your general mood has lifted,
+        then the service was probably good, if you feel worse it probably weren\'t
+        great. Of course, it\'s entirely possibly your mood has only shifted due to
+        the large quantity of alcohol you\'ve just consumed,
+        in which case just tell me that the
+        service was amazing and we\'ll be done.</string>
+
+    <!-- Strings for go button -->
+    <string name="go_button">Tell me what to pay.</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
